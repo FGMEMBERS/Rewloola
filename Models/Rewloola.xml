@@ -1,0 +1,15 @@
+<PropertyList>
+ 
+<path>Rewloola.ac</path>
+
+
+<!-- ========== Effects ========= -->
+
+	<effect>
+		<inherits-from>Aircraft/Rewloola/Models/Effects/aucafly</inherits-from>
+		<object-name>Rewloola Body</object-name>
+		<object-name>Rewloola Body2</object-name>
+		<object-name>Rewloola Chrome</object-name>
+	</effect>
+</PropertyList>
+ 
